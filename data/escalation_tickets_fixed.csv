@@ -1,0 +1,101 @@
+TicketID,Date,App,Priority,SourceTeam,EscalationReason,SLAStatus,Resolution_Time_Hrs,CSAT,Month,Weekday_Number,SLA_Met_Binary
+INC001001,01/01/24,Box,Medium,L1 Service Desk,BugTechnical Issue,Met,15.8,2.5,2024-01,1,1
+INC001002,04/01/24,Lucidchart,Low,L2 Service Desk,BugTechnical Issue,Met,2.3,1.5,2024-01,1,1
+INC001003,07/01/24,Zoom,Low,L2 Service Desk,Admin Access Gap,Met,0.5,2.5,2024-01,2,1
+INC001004,10/01/24,Asana,Medium,L2 Service Desk,Knowledge Gap,Met,2.9,3,2024-01,2,1
+INC001005,13/01/24,Box,High,L1 Service Desk,Admin Access Gap,Met,6.2,2,2024-01,2,1
+INC001006,16/01/24,Smartsheet,High,L1 Service Desk,Knowledge Gap,Met,3.2,1.5,2024-01,3,1
+INC001007,19/01/24,Box,High,L2 Service Desk,Admin Access Gap,Met,14.1,4.2,2024-01,3,1
+INC001008,22/01/24,Zoom,Medium,L1 Service Desk,Policy Exception,Met,2.5,4.5,2024-01,4,1
+INC001009,25/01/24,Asana,High,L1 Service Desk,BugTechnical Issue,Missed,26.9,4.2,2024-01,4,0
+INC001010,28/01/24,Lucidchart,Medium,L1 Service Desk,Knowledge Gap,Met,4.9,3.5,2024-01,5,1
+INC001011,31/01/24,Zoom,High,L1 Service Desk,Knowledge Gap,Met,14.8,1.5,2024-01,5,1
+INC001012,03/02/24,Zoom,Low,L1 Service Desk,BugTechnical Issue,Met,1.7,4.2,2024-02,5,1
+INC001013,06/02/24,Smartsheet,Medium,L1 Service Desk,Knowledge Gap,Met,4.2,4.2,2024-02,6,1
+INC001014,09/02/24,Mural,Medium,L2 Service Desk,Knowledge Gap,Met,9.6,5,2024-02,6,1
+INC001015,12/02/24,Asana,Medium,L2 Service Desk,Admin Access Gap,Met,1.2,2.5,2024-02,7,1
+INC001016,15/02/24,Adobe,High,L1 Service Desk,Knowledge Gap,Met,1.1,5,2024-02,7,1
+INC001017,18/02/24,Zoom,Medium,L2 Service Desk,Policy Exception,Missed,27.9,1.5,2024-02,8,0
+INC001018,21/02/24,Mural,Medium,L2 Service Desk,Policy Exception,Met,10,1.5,2024-02,8,1
+INC001019,24/02/24,Adobe,High,L2 Service Desk,BugTechnical Issue,Met,0.5,3,2024-02,8,1
+INC001020,27/02/24,Asana,Low,L2 Service Desk,Knowledge Gap,Met,4.1,5,2024-02,9,1
+INC001021,01/03/24,Figma,Medium,L1 Service Desk,BugTechnical Issue,Met,4.5,4,2024-03,9,1
+INC001022,04/03/24,Mural,Medium,L2 Service Desk,Policy Exception,Met,10.9,2.5,2024-03,10,1
+INC001023,07/03/24,Appspace,Low,L2 Service Desk,Knowledge Gap,Met,2.3,1.5,2024-03,10,1
+INC001024,10/03/24,Figma,Medium,L1 Service Desk,Knowledge Gap,Met,1.6,3,2024-03,11,1
+INC001025,13/03/24,Smartsheet,High,L1 Service Desk,BugTechnical Issue,Met,0.7,5,2024-03,11,1
+INC001026,16/03/24,Box,High,L2 Service Desk,Policy Exception,Met,4.5,2.5,2024-03,11,1
+INC001027,19/03/24,Lucidchart,Medium,L2 Service Desk,Knowledge Gap,Met,9.3,5,2024-03,12,1
+INC001028,22/03/24,Appspace,High,L2 Service Desk,BugTechnical Issue,Met,0.5,4.2,2024-03,12,1
+INC001029,25/03/24,Smartsheet,Medium,L2 Service Desk,Policy Exception,Met,19.7,3,2024-03,13,1
+INC001030,28/03/24,Asana,Low,L2 Service Desk,BugTechnical Issue,Met,4.7,2.5,2024-03,13,1
+INC001031,31/03/24,Smartsheet,High,L2 Service Desk,Admin Access Gap,Met,2.2,3.5,2024-03,14,1
+INC001032,03/04/24,Box,High,L1 Service Desk,Knowledge Gap,Met,0.8,3.5,2024-04,14,1
+INC001033,06/04/24,Asana,Medium,L2 Service Desk,Admin Access Gap,Met,1.6,2.5,2024-04,14,1
+INC001034,09/04/24,Appspace,Low,L2 Service Desk,Policy Exception,Met,21.8,5,2024-04,15,1
+INC001035,12/04/24,Box,High,L1 Service Desk,Admin Access Gap,Met,8.1,3,2024-04,15,1
+INC001036,15/04/24,Adobe,Medium,L1 Service Desk,Admin Access Gap,Met,5.8,3.5,2024-04,16,1
+INC001037,18/04/24,Lucidchart,High,L1 Service Desk,Policy Exception,Met,8.6,3,2024-04,16,1
+INC001038,21/04/24,Appspace,Medium,L1 Service Desk,BugTechnical Issue,Met,4.6,3.5,2024-04,17,1
+INC001039,24/04/24,Adobe,High,L2 Service Desk,Admin Access Gap,Met,10.5,4.2,2024-04,17,1
+INC001040,27/04/24,Appspace,High,L2 Service Desk,BugTechnical Issue,Met,0.5,5,2024-04,17,1
+INC001041,30/04/24,Asana,Medium,L2 Service Desk,Admin Access Gap,Met,6.7,4.2,2024-04,18,1
+INC001042,03/05/24,Adobe,Medium,L2 Service Desk,BugTechnical Issue,Met,1.4,3.5,2024-05,18,1
+INC001043,06/05/24,Lucidchart,Medium,L2 Service Desk,Policy Exception,Met,1,4.2,2024-05,19,1
+INC001044,09/05/24,Box,High,L2 Service Desk,Admin Access Gap,Met,3.3,3.5,2024-05,19,1
+INC001045,12/05/24,Zoom,High,L1 Service Desk,Policy Exception,Met,0.8,2.5,2024-05,20,1
+INC001046,15/05/24,Smartsheet,High,L2 Service Desk,Admin Access Gap,Met,0.8,4.2,2024-05,20,1
+INC001047,18/05/24,Figma,High,L1 Service Desk,Policy Exception,Met,3,2,2024-05,20,1
+INC001048,21/05/24,Lucidchart,Medium,L1 Service Desk,Policy Exception,Missed,31.1,5,2024-05,21,0
+INC001049,24/05/24,Adobe,Medium,L2 Service Desk,Admin Access Gap,Met,1.5,1.5,2024-05,21,1
+INC001050,27/05/24,Zoom,High,L1 Service Desk,Admin Access Gap,Met,0.5,4,2024-05,22,1
+INC001051,30/05/24,Lucidchart,High,L2 Service Desk,Admin Access Gap,Met,11.5,4.2,2024-05,22,1
+INC001052,02/06/24,Adobe,High,L1 Service Desk,Knowledge Gap,Met,13.2,4.5,2024-06,23,1
+INC001053,05/06/24,Mural,Medium,L2 Service Desk,BugTechnical Issue,Met,3.4,5,2024-06,23,1
+INC001054,08/06/24,Mural,Medium,L1 Service Desk,Knowledge Gap,Met,5,2,2024-06,23,1
+INC001055,11/06/24,Lucidchart,High,L2 Service Desk,Knowledge Gap,Met,8.4,2,2024-06,24,1
+INC001056,14/06/24,Mural,Low,L2 Service Desk,Policy Exception,Met,0.5,3.5,2024-06,24,1
+INC001057,17/06/24,Adobe,High,L2 Service Desk,Admin Access Gap,Met,23.8,3.5,2024-06,25,1
+INC001058,20/06/24,Adobe,Low,L2 Service Desk,BugTechnical Issue,Met,17.4,4,2024-06,25,1
+INC001059,23/06/24,Lucidchart,Medium,L2 Service Desk,Policy Exception,Met,2.4,2.5,2024-06,26,1
+INC001060,26/06/24,Zoom,High,L1 Service Desk,Knowledge Gap,Met,0.5,4.5,2024-06,26,1
+INC001061,29/06/24,Box,High,L1 Service Desk,Admin Access Gap,Met,21.7,1.5,2024-06,26,1
+INC001062,02/07/24,Appspace,Medium,L1 Service Desk,Policy Exception,Met,5.6,4,2024-07,27,1
+INC001063,05/07/24,Zoom,Medium,L2 Service Desk,Admin Access Gap,Met,6.2,3,2024-07,27,1
+INC001064,08/07/24,Asana,Medium,L1 Service Desk,Policy Exception,Met,9.2,1.5,2024-07,28,1
+INC001065,11/07/24,Adobe,Medium,L2 Service Desk,Admin Access Gap,Met,7.7,4.2,2024-07,28,1
+INC001066,14/07/24,Asana,Medium,L2 Service Desk,Knowledge Gap,Met,23,5,2024-07,29,1
+INC001067,17/07/24,Zoom,Medium,L1 Service Desk,BugTechnical Issue,Met,23.1,3,2024-07,29,1
+INC001068,20/07/24,Appspace,High,L1 Service Desk,Knowledge Gap,Met,16.2,3,2024-07,29,1
+INC001069,23/07/24,Appspace,Medium,L2 Service Desk,BugTechnical Issue,Met,8.1,4,2024-07,30,1
+INC001070,26/07/24,Figma,High,L1 Service Desk,Admin Access Gap,Met,12.9,2.5,2024-07,30,1
+INC001071,29/07/24,Appspace,Low,L2 Service Desk,Policy Exception,Met,9,4,2024-07,31,1
+INC001072,01/08/24,Box,Medium,L2 Service Desk,Knowledge Gap,Met,6.8,4.2,2024-08,31,1
+INC001073,04/08/24,Appspace,Low,L2 Service Desk,BugTechnical Issue,Met,1.1,2.5,2024-08,32,1
+INC001074,07/08/24,Zoom,Medium,L2 Service Desk,Knowledge Gap,Met,13.3,4.2,2024-08,32,1
+INC001075,10/08/24,Figma,Low,L2 Service Desk,BugTechnical Issue,Met,13.7,2.5,2024-08,32,1
+INC001076,13/08/24,Zoom,Medium,L1 Service Desk,Knowledge Gap,Met,7.9,2,2024-08,33,1
+INC001077,16/08/24,Zoom,High,L1 Service Desk,BugTechnical Issue,Met,13.7,3,2024-08,33,1
+INC001078,19/08/24,Smartsheet,Medium,L2 Service Desk,BugTechnical Issue,Met,8.4,4.5,2024-08,34,1
+INC001079,22/08/24,Figma,Medium,L2 Service Desk,Admin Access Gap,Met,1.9,5,2024-08,34,1
+INC001080,25/08/24,Zoom,Low,L1 Service Desk,BugTechnical Issue,Met,2.6,4.2,2024-08,35,1
+INC001081,28/08/24,Smartsheet,High,L1 Service Desk,Admin Access Gap,Met,1.9,1.5,2024-08,35,1
+INC001082,31/08/24,Smartsheet,High,L2 Service Desk,BugTechnical Issue,Met,3.8,2.5,2024-08,35,1
+INC001083,03/09/24,Figma,Medium,L1 Service Desk,Policy Exception,Met,0.5,5,2024-09,36,1
+INC001084,06/09/24,Asana,Low,L2 Service Desk,Policy Exception,Met,7.7,1.5,2024-09,36,1
+INC001085,09/09/24,Box,High,L1 Service Desk,Policy Exception,Met,3.3,5,2024-09,37,1
+INC001086,12/09/24,Appspace,High,L2 Service Desk,BugTechnical Issue,Met,8.5,4.5,2024-09,37,1
+INC001087,15/09/24,Box,Low,L1 Service Desk,Admin Access Gap,Met,3.9,1.5,2024-09,38,1
+INC001088,18/09/24,Appspace,Medium,L2 Service Desk,Admin Access Gap,Met,9.2,4,2024-09,38,1
+INC001089,21/09/24,Zoom,Medium,L1 Service Desk,BugTechnical Issue,Met,3.3,3.5,2024-09,38,1
+INC001090,24/09/24,Adobe,Low,L1 Service Desk,Policy Exception,Met,2.4,4,2024-09,39,1
+INC001091,27/09/24,Figma,Medium,L2 Service Desk,Policy Exception,Met,5.5,3.5,2024-09,39,1
+INC001092,30/09/24,Box,Medium,L1 Service Desk,Admin Access Gap,Met,9.4,4,2024-09,40,1
+INC001093,03/10/24,Box,High,L2 Service Desk,Policy Exception,Met,3.4,3.5,2024-10,40,1
+INC001094,06/10/24,Zoom,Medium,L1 Service Desk,Knowledge Gap,Met,22.1,3.5,2024-10,41,1
+INC001095,09/10/24,Asana,Medium,L2 Service Desk,Admin Access Gap,Met,0.5,3,2024-10,41,1
+INC001096,12/10/24,Smartsheet,High,L1 Service Desk,Policy Exception,Met,4.3,2.5,2024-10,41,1
+INC001097,15/10/24,Zoom,High,L2 Service Desk,Admin Access Gap,Missed,27.4,2.5,2024-10,42,0
+INC001098,18/10/24,Mural,Low,L1 Service Desk,Knowledge Gap,Met,6.4,3,2024-10,42,1
+INC001099,21/10/24,Smartsheet,Medium,L2 Service Desk,Admin Access Gap,Met,4.4,5,2024-10,43,1
+INC001100,24/10/24,Figma,High,L1 Service Desk,Admin Access Gap,Met,6.7,2,2024-10,43,1
