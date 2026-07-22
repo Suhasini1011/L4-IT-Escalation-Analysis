@@ -1,4 +1,4 @@
-# L4 IT Support Escalation Analysis Dashboard
+# IT Support Escalation Analysis 
 
 ## Project Overview
 This project analyzes escalated IT support tickets from L1/L2 Service Desk teams to an L4 AppOps team, focusing on SaaS application license and access issues. It mirrors a real business problem I worked on professionally, rebuilt here end-to-end using **synthetic data** for a public portfolio. The goal: identify why tickets get escalated, and design a data-backed process change to reduce unnecessary escalations.
